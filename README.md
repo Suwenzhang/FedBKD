@@ -3,8 +3,11 @@
 #Enviroment
 
 numpy == 1.21.2
+
 torch == 1.9.0
+
 torchvision == 0.10.0
+
 python == 3.8
 
 # Run
